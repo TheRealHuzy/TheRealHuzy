@@ -29,4 +29,6 @@
 <img align="left" alt="unreal engine 5" width="22px" src="https://user-images.githubusercontent.com/97812292/191725532-e0b1ae71-3b4e-4507-a58e-bbc4f2b8681f.png" />
 <img align="left" alt="photoshop" width="20px" src="https://user-images.githubusercontent.com/97812292/191725900-546c1f64-2f9c-452c-bf5f-53bea91d263a.png" />
 <img align="left" alt="sony vegas pro" width="20px" src="https://user-images.githubusercontent.com/97812292/191726152-138293d8-7fd9-4da8-ba43-1dbfd90aec48.png" />
+<img align="left" alt="php" width="20px" src="https://user-images.githubusercontent.com/97812292/193750908-e38e19f1-996c-48ed-8077-46e06bae8cc2.png" />
+<img align="left" alt="laravel" width="20px" src="https://user-images.githubusercontent.com/97812292/193750965-f7e6faef-2401-44ec-89dc-f011e1bdc809.png" />
 
