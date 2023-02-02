@@ -25,7 +25,6 @@
 <img align="left" alt="intellij" width="20px" src="https://user-images.githubusercontent.com/97812292/191723204-97310d79-839b-4be5-97eb-a7793b536ffd.png" />
 <img align="left" alt="eclipse" width="20px" src="https://user-images.githubusercontent.com/97812292/191727125-bc7a1653-4c16-4406-95ab-de9d38a664f5.png" />
 <img align="left" alt="android studio" width="20px" src="https://user-images.githubusercontent.com/97812292/191723629-e1113f76-b50a-4f59-baeb-f306285391ab.png" />
-<img align="left" alt="laravel" width="20px" src="https://user-images.githubusercontent.com/97812292/193750965-f7e6faef-2401-44ec-89dc-f011e1bdc809.png" />
 <img align="left" alt="github desktop" width="22px" src="https://user-images.githubusercontent.com/97812292/191723936-1c82b529-2680-41f6-a592-f9618a6f8ece.png" />
 <img align="left" alt="unreal engine 4" width="22px" src="https://user-images.githubusercontent.com/97812292/191724857-c9823cba-0c2d-428d-acc5-4f7941de5523.png" />
 <img align="left" alt="unreal engine 5" width="22px" src="https://user-images.githubusercontent.com/97812292/191725532-e0b1ae71-3b4e-4507-a58e-bbc4f2b8681f.png" />
